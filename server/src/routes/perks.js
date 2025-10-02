@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { filterPerks, getPerk, createPerk, updatePerk, deletePerk, getAllPerks} from '../controllers/perkController.js';
+import { filterPerks, getPerk, createPerk, updatePerk, deletePerk, getAllPerks } from '../controllers/perkController.js';
 
 const router = Router();
 
